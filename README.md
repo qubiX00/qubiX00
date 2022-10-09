@@ -2,7 +2,7 @@
 Hi! Im QubiX, i live in poland and i love playing video games, coding, making graphics.
 
 # Current Projects
-[NeuOS](https://github.com/Badless/NeuOS): Open Source OS based on w2ui runnable in your browser
+[NeuOS](https://github.com/Badless/NeuOS): Open Source OS based on w2ui runnable in your browser [Try it here](https://badless.github.io/NeuOS/src/)
 
 ## Contact
 Discord: kamień#9122
